@@ -1,2 +1,2 @@
 # git-collab-demo
-GitHub collaboration Experiment
+This project demonstrates GitHub collaboration.
